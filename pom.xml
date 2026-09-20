@@ -6,7 +6,7 @@
 
     <groupId>com.suifuda</groupId>
     <artifactId>suifuda-open-sdk</artifactId>
-    <version>1.0.0</version>
+    <version>2.0.0</version>
     <packaging>jar</packaging>
 
     <name>suifuda-open-sdk</name>
